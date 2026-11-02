@@ -1,0 +1,18 @@
+RISE 360 ACCORDION EMBED CODES
+
+1) Publish this folder to any HTTPS static web host that permits iframe embedding.
+2) REPLACE https://YOUR-USERNAME.github.io/dni-module-2-animations with the actual root URL of your hosted folder.
+3) Paste ONLY the one corresponding iframe line into Rise > Accordion item > Media > Embed from web.
+
+POWER
+<iframe src="https://YOUR-USERNAME.github.io/dni-module-2-animations/power/" width="100%" height="520" style="height:clamp(310px,73vw,520px);border:0;" title="Power: See it in motion" loading="lazy"></iframe>
+
+PRIVILEGE
+<iframe src="https://YOUR-USERNAME.github.io/dni-module-2-animations/privilege/" width="100%" height="520" style="height:clamp(310px,73vw,520px);border:0;" title="Privilege: See it in motion" loading="lazy"></iframe>
+
+INTERSECTIONALITY
+<iframe src="https://YOUR-USERNAME.github.io/dni-module-2-animations/intersectionality/" width="100%" height="520" style="height:clamp(310px,73vw,520px);border:0;" title="Intersectionality: See it in motion" loading="lazy"></iframe>
+
+If Rise strips the iframe style or displays a clipped graphic, use height="520" without the style attribute. That leaves more space on narrow phones, but avoids clipping. You can adjust the height in Rise preview.
+
+Important: The HTTPS URLs are EXAMPLES, not yet live. Hosting must be completed before embeds will work. Each embedded page has the button "See it in motion" and changes to "Replay animation" after clicking. Definitions belong in Rise's native accordion text fields.
